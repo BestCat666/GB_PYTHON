@@ -1,0 +1,12 @@
+print('Введите а')
+a = input()
+print('Введите b')
+b = input()
+print(a, b, ' ', a+b)
+print('{} -- {}'.format(a, b))
+
+print('Введите а')
+a = int(input())
+print('Введите b')
+b = int(input())
+print(a, b, ' ', a+b)
